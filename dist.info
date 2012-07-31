@@ -11,5 +11,5 @@ maintainer = "Peter Drahoš"
 
 depends = {
   "libiconv >= 1.14",
-	"lua ~> 5.0"
+  "lua >= 5.1"
 }
